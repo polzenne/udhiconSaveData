@@ -1,3 +1,8 @@
-*
-!Save/*
-!.gitignore
+*.exe
+*.ini
+*.wolf
+*.dll
+*.ttf
+*.txt
+*.png
+*.html
